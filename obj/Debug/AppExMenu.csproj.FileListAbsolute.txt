@@ -1,0 +1,13 @@
+H:\2022-3C1_34_MarianaDeschamps\AppExMenu\AppExMenu\bin\Debug\AppExMenu.exe.config
+H:\2022-3C1_34_MarianaDeschamps\AppExMenu\AppExMenu\bin\Debug\AppExMenu.exe
+H:\2022-3C1_34_MarianaDeschamps\AppExMenu\AppExMenu\bin\Debug\AppExMenu.pdb
+H:\2022-3C1_34_MarianaDeschamps\AppExMenu\AppExMenu\obj\Debug\AppExMenu.csproj.AssemblyReference.cache
+H:\2022-3C1_34_MarianaDeschamps\AppExMenu\AppExMenu\obj\Debug\AppExMenu.csproj.SuggestedBindingRedirects.cache
+H:\2022-3C1_34_MarianaDeschamps\AppExMenu\AppExMenu\obj\Debug\AppExMenu.FrmAmarelo.resources
+H:\2022-3C1_34_MarianaDeschamps\AppExMenu\AppExMenu\obj\Debug\AppExMenu.FrmAzul.resources
+H:\2022-3C1_34_MarianaDeschamps\AppExMenu\AppExMenu\obj\Debug\AppExMenu.FrmVermelho.resources
+H:\2022-3C1_34_MarianaDeschamps\AppExMenu\AppExMenu\obj\Debug\AppExMenu.Properties.Resources.resources
+H:\2022-3C1_34_MarianaDeschamps\AppExMenu\AppExMenu\obj\Debug\AppExMenu.csproj.GenerateResource.cache
+H:\2022-3C1_34_MarianaDeschamps\AppExMenu\AppExMenu\obj\Debug\AppExMenu.csproj.CoreCompileInputs.cache
+H:\2022-3C1_34_MarianaDeschamps\AppExMenu\AppExMenu\obj\Debug\AppExMenu.exe
+H:\2022-3C1_34_MarianaDeschamps\AppExMenu\AppExMenu\obj\Debug\AppExMenu.pdb
